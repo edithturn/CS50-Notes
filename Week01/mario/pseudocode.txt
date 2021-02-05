@@ -1,0 +1,11 @@
+1  Ask the height to the use
+2  Use the height to limit ot the pyramid
+3  Create counter = 0
+4  Increase counter in one
+5  Establish values of limit = counter and spaces = height - counter
+6  write a " " for each spaces
+7  write a "#" for each limit
+8  If counter is diferent than height:
+9     Do step
+10 Else
+11    Finish
