@@ -1,6 +1,7 @@
 # C Programming - Mario
+Recreate the pyramid:
 
-
+![Pyramid](img/two_pyramids.png) 
 
 ## How to submit code to cs50.
 ```bash
