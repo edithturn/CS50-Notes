@@ -5,7 +5,7 @@ Recreate the pyramid:
 
 ## How to submit code to cs50.
 ```bash
-check50 cs50/problems/2021/x/mario/less
+check50 cs50/problems/2021/x/mario/more
 style50 mario.c
-submit50 cs50/problems/2021/x/mario/less
+submit50 cs50/problems/2021/x/mario/more
 ```
